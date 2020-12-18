@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ML</string>
+    <string name="document_recognition">Document Recognition</string>
+    <string name="text_recognition">Text Recognition</string>
+    <string name="pick_text_from_gallery">Pick text from gallery</string>
+    <string name="take_image">Take image</string>
+    <string name="pick_document_from_gallery">Pick document from gallery</string>
+    <string name="visual_search">Visual Search</string>
+
+</resources>

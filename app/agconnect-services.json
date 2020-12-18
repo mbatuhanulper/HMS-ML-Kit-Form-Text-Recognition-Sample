@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"890090000023105693",
+		"product_id":"736430079244741292",
+		"client_id":"517390488513283136",
+		"client_secret":"14D679EA3DB0C999D1A3A33D935382DD0C35F4C81F2D94646821B6520C8598E3",
+		"project_id":"736430079244741292",
+		"app_id":"103486969",
+		"api_key":"CgB6e3x9V84MSkRtw10oyfIBpQFuOb/dMfrZTay4nAfHEIW+pqWzShL7oM6P0G+S5jQqcMIXeBr2yuPZ5lVjQEM+",
+		"package_name":"com.batuhan.ocr_demo"
+	},
+	"configuration_version":"1.0"
+}
